@@ -1,1 +1,1 @@
-### How to install Conda env in colab 
+### How to install Conda env on colab 
